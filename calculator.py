@@ -7,7 +7,7 @@ def mul(a,b):
 def sub(a,b):
    return a-b
 
-def divide (a,b)
+def divide(a,b):
    if b==0
       return None
    return a/b
