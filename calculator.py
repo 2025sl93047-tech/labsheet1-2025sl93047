@@ -1,7 +1,7 @@
 
 
 def add(a,b):
-   return a-b #intentionally wrong
+   return a+b 
 assert add(2,3) == 5
 
 def mul(a,b):
